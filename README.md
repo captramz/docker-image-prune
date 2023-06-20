@@ -30,7 +30,7 @@ services:
 | TZ=America/Los_Angeles | Specify timezone                |
 | CRON="0 0 \* \* \*"    | Cron which to run prune command |
 
-License
+## License
 
 This project is licensed under the MIT License. You are free to modify, distribute, and use this image in any way you see fit.
 
